@@ -1,0 +1,32 @@
+sw_volume: 50
+audio_device_state:1:PipeWire Sound Server
+audio_device_state:1:my_fifo
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Singles/21 - What To Believe.flac
+1:La Dispute - Somewhere at the Bottom of the River Between Vega and Altair/01- Such Small Hands.flac
+2:La Dispute - Somewhere at the Bottom of the River Between Vega and Altair/02- Said the King to the River.flac
+3:La Dispute - Somewhere at the Bottom of the River Between Vega and Altair/03- New Storms for Older Lovers.flac
+4:La Dispute - Somewhere at the Bottom of the River Between Vega and Altair/04- Damaged Goods.flac
+5:La Dispute - Somewhere at the Bottom of the River Between Vega and Altair/05- Fall Down, Never Get Back Up Again.flac
+6:La Dispute - Somewhere at the Bottom of the River Between Vega and Altair/06- Bury Your Flame.flac
+7:La Dispute - Somewhere at the Bottom of the River Between Vega and Altair/07- Last Blues for Bloody Knuckles.flac
+8:La Dispute - Somewhere at the Bottom of the River Between Vega and Altair/08- The Castle Builders.flac
+9:La Dispute - Somewhere at the Bottom of the River Between Vega and Altair/09- Andria.flac
+10:La Dispute - Somewhere at the Bottom of the River Between Vega and Altair/10- Then Again, Maybe You Were Right.flac
+11:La Dispute - Somewhere at the Bottom of the River Between Vega and Altair/11- Sad Prayers for Guilty Bodies.flac
+12:La Dispute - Somewhere at the Bottom of the River Between Vega and Altair/12- The Last Lost Continent.flac
+13:La Dispute - Somewhere at the Bottom of the River Between Vega and Altair/13- Nobody, Not Even the Rain.flac
+14:Singles/Renaissance Affair - T.T.T..mp3
+15:Singles/yung kaori - i need to throw up.mp3
+16:Singles/21 - What To Believe.flac
+17:Singles/21 - What To Believe.flac
+18:Dev-Null - Necrobestial Sadobreaks/4. zombie sunset.mp3
+playlist_end
